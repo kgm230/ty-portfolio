@@ -100,7 +100,7 @@ h2 {
 /* header */
 header {
     height: 100vh;
-    background-image: url(../image/border.png);
+    background-image: url(https://raw.githubusercontent.com/kgm230/ty-portfolio/505fb83aa5b2c86aced044c449c8285e1673bddf/image/big-bg.svg);
     background-position: top;
     background-size: auto 20px;
     background-repeat: repeat-x;
