@@ -108,7 +108,7 @@ header {
 }
 
 .big-bg {
-    background-image: url(/image/big-bg.jpg);
+    background-image: url(/image/big-bg.svg);
     /* background-size: cover;
     background-position: bottom;  */
     background-repeat: repeat-x;
