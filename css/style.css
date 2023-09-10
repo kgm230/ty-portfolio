@@ -35,6 +35,9 @@ h2 {
     padding: 30px;
 }
 
+div {	
+    overflow: hidden;
+}
 /* トップへ戻る */
 #page-top img {
     width: auto;
